@@ -50,10 +50,10 @@ void loop() {
     digitalWrite(bluePin, LOW);
     digitalWrite(redPin, LOW);
   } else if (distance >= 25 && distance <= 70) {
-    // 距離在25公分到70公分之間，亮黃燈
+    // 距離在25公分到70公分之間，亮白燈
     digitalWrite(redPin, HIGH);
     digitalWrite(greenPin, HIGH);
-    digitalWrite(bluePin, LOW);
+    digitalWrite(bluePin, HIGH);
     
      // 黃燈需要同時亮綠燈和紅燈
   } else {
