@@ -4,7 +4,7 @@
 ## 準備材料 : 
 >1. Arduino Nano板(CH340驅動程式.USB:MiniUSB) 
 >2. MiniUSB 連接線 X 1 
->3. HC-SR04超音波感測器
+>3. HC-SR04超音波感測器 Trig->pin2 , Echo->pin3
 >4. RGB LED燈
 >5. TM1637 4位七段顯示器
 >6. 蜂鳴器
