@@ -5,9 +5,9 @@
 >1. Arduino Nano板(CH340驅動程式.USB:MiniUSB) 
 >2. MiniUSB 連接線 X 1 
 >3. HC-SR04超音波感測器 Trig->pin2 , Echo->pin3
->4. RGB LED燈
->5. TM1637 4位七段顯示器
->6. 蜂鳴器
+>4. RGB LED燈 Red->pin9 , Green->pin10 , blue->pin11
+>5. TM1637 4位七段顯示器 CLK->pin4 , DIO->pin5
+>6. 蜂鳴器  正->pin12 , 負->GND
 >7. 麵包板 X 1===
 
 ## 電路圖
