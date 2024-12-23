@@ -12,7 +12,7 @@
 >8. 麵包板 X 1===
 
 ## 電路圖
->![](期末實作/電路圖.jpg)
+>![](https://github.com/sujamie/Arduino/blob/main/%E6%9C%9F%E6%9C%AB%E5%AF%A6%E4%BD%9C/%E9%9B%BB%E8%B7%AF%E5%9C%96.jpg?raw=true)
 
 ## 程式碼
 
