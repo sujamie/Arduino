@@ -8,7 +8,7 @@
 >4. RGB LED燈 Red->pin9 , Green->pin10 , blue->pin11
 >5. TM1637 4位七段顯示器 CLK->pin4 , DIO->pin5
 >6. button 按鈕-> pin6
->7. DFPlayer mini  TX->7pin , RX->8pin
+>7. DFPlayer mini  TX->8pin , RX->7pin
 >8. 麵包板 X 1===
 
 ## 電路圖
@@ -27,7 +27,7 @@ const int echoPin = 3;   // 超音波感測器 Echo (回波) 引腳
 const int CLK = 4;       // TM1637 顯示器時鐘引腳
 const int DIO = 5;       // TM1637 顯示器資料引腳
 const int buttonPin = 6; // 啟動按鈕引腳
-SoftwareSerial mySerial(8, 7);  // 定義軟體序列埠 (RX, TX)，用於 MP3 模組通訊
+SoftwareSerial mySerial(8, 7);  // 定義軟體序列埠 (TX, RX)，用於 MP3 模組通訊
 const int redPin = 9;    // 紅色 LED 引腳
 const int greenPin = 10; // 綠色 LED 引腳
 const int bluePin = 11;  // 藍色 LED 引腳
