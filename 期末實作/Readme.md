@@ -12,7 +12,7 @@
 >8. 麵包板 X 1===
 
 ## 電路圖
->![](https://github.com/user-attachments/assets/78b4cbee-986e-4c92-9e61-f84fcd244e13)
+>![](期末實作/電路圖.jpg)
 
 ## 程式碼
 
