@@ -14,6 +14,9 @@
 ## 電路圖
 >![](https://github.com/sujamie/Arduino/blob/main/%E6%9C%9F%E6%9C%AB%E5%AF%A6%E4%BD%9C/%E9%9B%BB%E8%B7%AF%E5%9C%96.jpg?raw=true)
 
+## 引入函式庫
+>![]()
+
 ##流程圖
 >![](https://github.com/sujamie/Arduino/blob/main/%E6%9C%9F%E6%9C%AB%E5%AF%A6%E4%BD%9C/%E6%B5%81%E7%A8%8B%E5%9C%96.png?raw=true)
 
