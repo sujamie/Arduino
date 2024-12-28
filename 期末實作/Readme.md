@@ -20,7 +20,7 @@
 ##實作影片
 
 <a href= "https://youtube.com/shorts/ZH6xR6i-68Y?feature=share">
-<img src= "https://i9.ytimg.com/vi/ZH6xR6i-68Y/sd2.jpg?sqp=CPCYq7sG-oaymwEoCIAFEOAD8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYQyBSKHIwDw==&rs=AOn4CLB5PDHzA56qRWgjlaRcKE3p2rpVxQ/0.jpg">
+<img src= "https://i.ytimg.com/vi/ZH6xR6i-68Y/oar2.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLA1kXOIQcs2IWTwRVDh0-mNiFULkA/0.jpg"></a>
 
 ## 程式碼
 
